@@ -7,13 +7,13 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://RadimMusalek.github.io/CV
+url: http://RadimMusalek.github.io/CV_overview
 author: Radim Mušálek
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /CV/
+baseurl: /CV_overview/
 title: Radim Mušálek's Resume
 name: Radim Mušálek
 email: radim.musalek (at) .com
