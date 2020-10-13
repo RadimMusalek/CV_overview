@@ -16,7 +16,7 @@ author: Radim Mušálek
 baseurl: /CV_overview/
 title: Radim Mušálek's Resume
 name: Radim Mušálek
-email: radim.musalek (at) integrify.io
+email: radim.musalek(at)integrify.io
 email_full: mailto:radim.musalek@integrify.io
 website: RadimMusalek.io/CV
 website_full: https://RadimMusalek.github.io/CV
@@ -25,10 +25,10 @@ twitter: radim_musalek
 tel: +358 408 768989
 # google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-#  street: 44 Perth Street
-# postcode: 00550
-city: Helsinki
-country: Finland
+ street: 
+ postcode: 00550
+ city: Helsinki
+ country: Finland
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
