@@ -16,20 +16,20 @@ author: Radim Mušálek
 baseurl: /CV_overview/
 title: Radim Mušálek's Resume
 name: Radim Mušálek
-email: radim.musalek (at) .com
-email_full: mailto:youremail@me.com
+email: radim.musalek (at) integrify.io
+email_full: mailto:radim.musalek@integrify.io
 website: RadimMusalek.io/CV
 website_full: https://RadimMusalek.github.io/CV
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+github: RadimMusalek.github.io
+# twitter: twitter
+tel: +358 408 768989
+# google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+# address:
+#  street: 44 Perth Street
+#  postcode: EH3 5BL
+#  city: Edinburgh
+#  country: United Kingdom
+# google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
