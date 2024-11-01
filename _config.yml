@@ -7,7 +7,8 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://RadimMusalek.github.io/CV_overview
+# url: http://RadimMusalek.github.io/CV_overview
+url: http://radimmusalek.com/CV_overview
 author: Radim Mušálek
 
 # edit this section with your information
