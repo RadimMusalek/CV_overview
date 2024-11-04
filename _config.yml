@@ -14,7 +14,7 @@ author: Radim Mušálek
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /CV_overview/
+baseurl: /radimmusalek.github.io/ # /CV_overview/
 title: Radim Mušálek's Resume
 name: Radim Mušálek
 email: musalek.radim (at) gmail.com
